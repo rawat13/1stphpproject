@@ -1,0 +1,79 @@
+h2{
+    text-align: center;
+}
+
+
+#box{
+    width:500px;
+    margin:0 auto;
+    background: white;
+    padding:10px;
+    border-radius: 6%;
+    border: 2px solid black;
+}
+
+.profile{
+    width: 100px;
+    padding-left: 200px;
+    border-radius: 10%;
+   
+}
+
+.form{
+    width: 450px;
+    margin: 0 auto;
+}
+
+.input{
+    width: 430px;
+    padding: 4px;
+    margin: 0 auto;
+}
+.loginbtn{
+    background-color: #2ecc71;
+    padding: 5px;
+    color: white;
+    width: 450px;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 300;
+}
+
+.newuser{
+    background-color:#3498db;
+    padding: 5px;
+    color: white;
+    width: 450px;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 300;
+}
+
+.signbtn{
+    background-color:#c0392b;
+    padding: 5px;
+    color: white;
+    width: 450px;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 300;
+}
+
+.back{
+    background-color: #f1c40f;
+    padding: 5px;
+    color: white;
+    width: 450px;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 300;
+}
+
+.logoutbtn{
+    background-color: #e67e22;
+    padding: 5px;
+    color: white;
+    width: 450px;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 300;
